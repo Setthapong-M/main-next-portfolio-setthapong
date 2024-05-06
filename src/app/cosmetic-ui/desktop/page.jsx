@@ -1,13 +1,12 @@
 "use client"
 
 import React from 'react'
-import NavCaseStudyDesktopCos from '../../components/CosmeticCaseStudy/Desktop/NavCaseStudyDesktopCos'
-import WireframeDesktopCos from '../../components/CosmeticCaseStudy/Desktop/WireframeDesktopCos'
-import PatternDesktopCos from '../../components/CosmeticCaseStudy/Desktop/PatternDesktopCos'
-import PrototypeDesktopCos from '../../components/CosmeticCaseStudy/Desktop/PrototypeDesktopCos'
+import WireframeDesktopCos from '../components/WireframeDesktopCos'
+import PatternDesktopCos from '../components/PatternDesktopCos'
+import PrototypeDesktopCos from '../components/PrototypeDesktopCos'
 import Footer from '../../components/Footer'
 import TopButton from '../../components/TopButton'
-import ChooseViewLeft from '@/app/components/MiddlemanCaseStudy/Global/ChooseViewLeft'
+import ChooseViewLeft from '@/app/middleman-design/components/ChooseViewLeft'
 import Navbar from '@/app/components/Navbar'
 
 function CosemeticDesktop() {

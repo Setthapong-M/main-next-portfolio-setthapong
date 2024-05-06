@@ -1,17 +1,17 @@
 "use client"
 
 import React from 'react'
-import ContentEmpathize from '../../components/MiddlemanCaseStudy/Global/ContentEmpathize'
-import ContentDefine from '../../components/MiddlemanCaseStudy/Global/ContentDefine'
-import ContentIdeate from '../../components/MiddlemanCaseStudy/Global/ContentIdeate'
-import ContentPrototype from '../../components/MiddlemanCaseStudy/Global/ContentPrototype'
-import WireframeDesktop from '../../components/MiddlemanCaseStudy/Desktop/WireframeDesktop'
-import PatternDesktop from '../../components/MiddlemanCaseStudy/Desktop/PatternDesktop'
-import PrototypeDesktop from '../../components/MiddlemanCaseStudy/Desktop/PrototypeDesktop'
-import ContentOverview from '../../components/MiddlemanCaseStudy/Global/ContentOverview'
+import ContentEmpathize from '../components/ContentEmpathize'
+import ContentDefine from '../components/ContentDefine'
+import ContentIdeate from '../components/ContentIdeate'
+import ContentPrototype from '../components/ContentPrototype'
+import WireframeDesktop from '../components/WireframeDesktop'
+import PatternDesktop from '../components/PatternDesktop'
+import PrototypeDesktop from '../components/PrototypeDesktop'
+import ContentOverview from '../components/ContentOverview'
 import Footer from '../../components/Footer'
 import TopButton from '../../components/TopButton'
-import ChooseViewLeft from '@/app/components/MiddlemanCaseStudy/Global/ChooseViewLeft'
+import ChooseViewLeft from '@/app/middleman-design/components/ChooseViewLeft'
 import Navbar from '@/app/components/Navbar'
 
 function MiddlemanDesktop() {

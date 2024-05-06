@@ -2,15 +2,15 @@
 
 import React from 'react'
 import Footer from '../components/Footer'
-import NavbarChoose from '../components/MiddlemanCaseStudy/Global/NavbarChoose'
-import ChooseViewLeft from '../components/MiddlemanCaseStudy/Global/ChooseViewLeft'
-import ChooseViewRight from '../components/MiddlemanCaseStudy/Global/ChooseViewRight'
+import ChooseViewLeft from './components/ChooseViewLeft'
+import ChooseViewRight from './components/ChooseViewRight'
+import Navbar from '../components/Navbar'
 
 
 function MiddlemanChoose() {
   return (
     <main>
-        <NavbarChoose />
+        <Navbar />
         <ChooseViewRight 
           img={'/pm-1.png'}
           title={"MIDDLEMAN (Mobile)"}

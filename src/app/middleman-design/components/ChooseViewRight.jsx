@@ -8,7 +8,7 @@ function ChooseViewRight(props) {
         <div className='flex flex-col-reverse md:grid md:grid-cols-2 gap-20 px-6 md:px-20 md:justify-center'>
             <div className='flex justify-center md:justify-end items-center'>
                 <div className='flex flex-col text-center md:text-start gap-y-6 max-w-lg'>
-                    <h1 className='text-4xl font-bold'>{props.title}</h1>
+                    <h1 className='text-4xl '>{props.title}</h1>
                     <div className='max-w-lg mx-auto text-justify'>
                         <p>{props.subtitle}</p>
                         <ul className='my-6 text-start'>

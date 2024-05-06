@@ -1,18 +1,19 @@
 "use client"
 
 import React, { useState } from 'react'
-import ContentEmpathize from '../../components/MiddlemanCaseStudy/Global/ContentEmpathize'
-import ContentDefine from '../../components/MiddlemanCaseStudy/Global/ContentDefine'
-import ContentIdeate from '../../components/MiddlemanCaseStudy/Global/ContentIdeate'
-import ContentPrototype from '../../components/MiddlemanCaseStudy/Global/ContentPrototype'
-import WireframeMobile from '../../components/MiddlemanCaseStudy/Mobile/WireframeMobile'
-import PatternMobile from '../../components/MiddlemanCaseStudy/Mobile/PatternMobile'
-import PrototypeMobile from '../../components/MiddlemanCaseStudy/Mobile/PrototypeMobile'
-import ContentOverview from '../../components/MiddlemanCaseStudy/Global/ContentOverview'
+import ContentEmpathize from '../components/ContentEmpathize'
+import ContentDefine from '../components/ContentDefine'
+import ContentIdeate from '../components/ContentIdeate'
+import ContentPrototype from '../components/ContentPrototype'
+import WireframeMobile from '../components/WireframeMobile'
+import PatternMobile from '../components/PatternMobile'
+import PrototypeMobile from '../components/PrototypeMobile'
+import ContentOverview from '../components/ContentOverview'
 import Footer from '../../components/Footer'
 import TopButton from '../../components/TopButton'
-import ChooseViewRight from '@/app/components/MiddlemanCaseStudy/Global/ChooseViewRight'
+import ChooseViewRight from '@/app/middleman-design/components/ChooseViewRight'
 import Navbar from '@/app/components/Navbar'
+import ContentTesting from '@/app/middleman-design/components/ContentTesting'
 
 function MiddlemanMobile() {
 
@@ -34,6 +35,7 @@ function MiddlemanMobile() {
         <ContentDefine />
         <ContentIdeate />
         <ContentPrototype />
+        <ContentTesting />
         <WireframeMobile />
         <PatternMobile />
         <PrototypeMobile />

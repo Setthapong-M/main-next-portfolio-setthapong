@@ -1,13 +1,12 @@
 "use client"
 
 import React from 'react'
-import NavCaseStudyMobileCos from '../../components/CosmeticCaseStudy/Mobile/NavCaseStudyMobileCos'
-import WireframeMobileCos from '../../components/CosmeticCaseStudy/Mobile/WireframeMobileCos'
-import PatternMobileCos from '../../components/CosmeticCaseStudy/Mobile/PatternMobileCos'
-import PrototypeMobileCos from '../../components/CosmeticCaseStudy/Mobile/PrototypeMobileCos'
+import WireframeMobileCos from '../components/WireframeMobileCos'
+import PatternMobileCos from '../components/PatternMobileCos'
+import PrototypeMobileCos from '../components/PrototypeMobileCos'
 import Footer from '../../components/Footer'
 import TopButton from '../../components/TopButton'
-import ChooseViewRight from '@/app/components/MiddlemanCaseStudy/Global/ChooseViewRight'
+import ChooseViewRight from '@/app/middleman-design/components/ChooseViewRight'
 import Navbar from '@/app/components/Navbar'
 
 function CosmeticMobile() {

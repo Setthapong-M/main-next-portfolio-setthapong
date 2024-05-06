@@ -2,9 +2,9 @@
 
 import React from 'react'
 import Footer from '../components/Footer'
-import NavbarChooseCos from '../components/CosmeticCaseStudy/Global/NavbarChooseCos'
-import ChooseViewRight from '../components/MiddlemanCaseStudy/Global/ChooseViewRight'
-import ChooseViewLeft from '../components/MiddlemanCaseStudy/Global/ChooseViewLeft'
+import NavbarChooseCos from './components/Global/NavbarChooseCos'
+import ChooseViewRight from '../middleman-design/components/ChooseViewRight'
+import ChooseViewLeft from '../middleman-design/components/ChooseViewLeft'
 
 function CosmeticChoose() {
   return (

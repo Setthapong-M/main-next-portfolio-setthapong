@@ -18,10 +18,10 @@ function Navbar({isHifi}) {
                         <Link href="/" className='ml-6 text-2xl md:ml-20'>Setthapong Port</Link>
 
                         <ul className='hidden md:flex gap-x-12'>
-                            <li><Link href="#toolkits-section">Toolkits</Link></li>
-                            <li><Link href="#ability-section">Ability</Link></li>
-                            <li><Link href="#portfolio-section">Portfolio</Link></li>
-                            <li><Link href="#books-section">Books</Link></li>
+                            <li><Link href="/#toolkits-section">Toolkits</Link></li>
+                            <li><Link href="/#ability-section">Ability</Link></li>
+                            <li><Link href="/#portfolio-section">Portfolio</Link></li>
+                            <li><Link href="/#books-section">Books</Link></li>
                         </ul>
                         <div className='flex items-center'>
                             <div className='mr-6 md:hidden' onClick={toggleMenu}><FaBars className='w-12 h-12'/></div>
@@ -30,11 +30,11 @@ function Navbar({isHifi}) {
                     </div>
                     {isMenu ? (
                     <ul className='flex-col md:hidden'>
-                            <li className='py-3 ml-12'><Link href="#toolkits-section">Toolkits</Link></li>
-                            <li className='py-3 ml-12'><Link href="#ability-section">Ability</Link></li>
-                            <li className='py-3 ml-12'><Link href="#portfolio-section">Portfolio</Link></li>
-                            <li className='py-3 ml-12'><Link href="#books-section">Books</Link></li>
-                            <li className='pt-3 pb-6 ml-12'><Link href="#contact-section">Contact</Link></li>
+                            <li className='py-3 ml-12'><Link href="/#toolkits-section">Toolkits</Link></li>
+                            <li className='py-3 ml-12'><Link href="/#ability-section">Ability</Link></li>
+                            <li className='py-3 ml-12'><Link href="/#portfolio-section">Portfolio</Link></li>
+                            <li className='py-3 ml-12'><Link href="/#books-section">Books</Link></li>
+                            <li className='pt-3 pb-6 ml-12'><Link href="/#contact-section">Contact</Link></li>
                     </ul>
                     ) : null}
                 </nav>

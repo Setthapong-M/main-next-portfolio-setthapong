@@ -18,7 +18,7 @@ function ChooseViewLeft(props) {
             </div>
             <div className='flex justify-center md:justify-start items-center'>
                 <div className='flex flex-col gap-y-6 md:max-w-lg'>
-                <h1 className='text-4xl font-bold text-center md:text-start'>{props.title}</h1>
+                <h1 className='text-4xl text-center md:text-start'>{props.title}</h1>
                 <div className='max-w-lg mx-auto text-justify'>
                     <p>{props.subtitle}</p>
                     <ul className='my-6'>
