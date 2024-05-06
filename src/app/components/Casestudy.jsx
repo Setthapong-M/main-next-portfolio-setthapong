@@ -29,7 +29,7 @@ function Casestudy() {
                 
             </div>
             <div className='flex flex-col gap-y-6 md:max-w-lg'>
-                <h1 className='text-4xl font-bold text-center md:text-start'>MIDDLEMAN Project</h1>
+                <h1 className='text-4xl font-bold text-center md:text-start'>MIDDLEMAN (Design)</h1>
                 <div className='max-w-lg mx-auto text-center md:text-justify'>
                     <p>A personal project website to help people trade products that are right for need a middleman and reduce the risk of internet fraud.</p>
                     <ul className='my-6'>
@@ -37,7 +37,7 @@ function Casestudy() {
                         <li>Role: UX/UI designer + branding designer</li>
                         <li>Reference: Customer experience /User experience/ User interface </li>
                     </ul>
-                    <Link href='/middleman-case-study-choose'><button className='bg-grey-black hover:bg-grey-black/90 text-white w-72 h-16 rounded-full text-xl mt-6'>View case study</button></Link>
+                    <Link href='/middleman-design'><button className='bg-grey-black hover:bg-grey-black/90 text-white w-72 h-16 rounded-full text-xl mt-6'>View case study</button></Link>
                 </div>
             </div>
         </div>
@@ -53,7 +53,7 @@ function Casestudy() {
                             <li>Role: UI designer</li>
                             <li>Reference: User interface </li>
                         </ul>
-                        <Link href='/cosmetic-case-study-choose'><button className='bg-grey-black hover:bg-grey-black/90 text-white w-72 h-16 rounded-full text-xl mt-6'>View case study</button></Link>
+                        <Link href='/cosmetic-ui'><button className='bg-grey-black hover:bg-grey-black/90 text-white w-72 h-16 rounded-full text-xl mt-6'>View case study</button></Link>
                     </div>
                 </div>
             </div>

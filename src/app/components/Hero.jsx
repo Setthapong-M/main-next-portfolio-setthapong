@@ -34,13 +34,13 @@ function Hero() {
                 
                 <div className=''>
                     <p className='md:flex max-w-lg'>
-                        I am looking for the opportunity to be Web developer (Front-end developer). I would like to use my abilities to be an excellent Web developer.
+                        I transfer to the career path. However, I graduated from civil engineering. I have thoroughly enjoyed class computer programming, this included. That is a motivation to be drawn towards the programming world. Since that time, I still gain new knowledge continuously to prove my ability to learn.
                     </p>
                 </div>
                     <ul className='flex gap-x-6 '>
                         <li><Link href='https://github.com/Setthapong-M'><FaGithub className='w-12 h-12 hover:text-grey-black/90'/></Link></li>
                         <li><Link href='https://www.linkedin.com/in/setthapong-maknoun-b42a28228/'><FaLinkedin className='w-12 h-12 hover:text-grey-black/90'/></Link></li>
-                        <li><Link href='https://www.figma.com/proto/9VhkZ8WwvWIuR3DHdmTZpo/Re%CC%81sume%CC%81?page-id=507%3A31&type=design&node-id=507-32&viewport=589%2C424%2C0.86&t=K2vQFKtSi6dEOz4J-1&scaling=min-zoom&mode=design'><FaRegFileLines className='w-12 h-12 hover:text-grey-black/90'/></Link></li>
+                        <li><Link href='https://drive.google.com/file/d/1YRR50eZezUJL8b7ItRxPiIcR-ZJ6e4yz/view?usp=sharing'><FaRegFileLines className='w-12 h-12 hover:text-grey-black/90'/></Link></li>
                     </ul>
             </div>
             <div className='flex justify-center'>
