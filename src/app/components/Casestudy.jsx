@@ -40,7 +40,7 @@ function Casestudy() {
                         <li>Role: UX/UI designer + branding designer</li>
                         <li>Reference: Customer experience /User experience/ User interface </li>
                     </ul>
-                    <Link href='/middleman-design'><button className='bg-grey-black hover:bg-grey-black/90 text-white w-72 h-16 rounded-full text-xl'>View case study</button></Link>
+                    <Link href='/middleman-design'><button className='bg-grey-black hover:bg-grey-black/90 text-white w-72 h-16 rounded-full text-xl'>View Case Study</button></Link>
                 </div>
             </div>
         </div>
@@ -57,7 +57,7 @@ function Casestudy() {
                             <li>Role: UI designer</li>
                             <li>Reference: User interface </li>
                         </ul>
-                        <Link href='/cosmetic-ui'><button className='bg-grey-black hover:bg-grey-black/90 text-white w-72 h-16 rounded-full text-xl mt-6'>View case study</button></Link>
+                        <Link href='/cosmetic-ui'><button className='bg-grey-black hover:bg-grey-black/90 text-white w-72 h-16 rounded-full text-xl mt-6'>View Case Study</button></Link>
                     </div>
                 </div>
             </div>
@@ -119,7 +119,7 @@ function Casestudy() {
                     </ul>
                     <div className='flex gap-6 items-end'>
                         <Link href='https://next-middleman.vercel.app/'>
-                            <button className=' bg-green-indust hover:bg-yellow-300 border-2 border-black text-black w-72 h-16 rounded-full text-xl'>Land to website</button>
+                            <button className=' bg-green-indust hover:bg-yellow-300 border-2 border-black text-black w-72 h-16 rounded-full text-xl'>Land to Website</button>
                         </Link>
                         <Link href='https://github.com/Setthapong-M/next-middleman/tree/main/src/app'><FaGithub className='w-16 h-16 hover:text-grey-black/90'/></Link>
                     </div>
@@ -142,7 +142,7 @@ function Casestudy() {
                         </ul>
                         <div className='flex gap-6 items-end'>
                             <Link href='https://nextjs-ep2-one.vercel.app/'>
-                                <button className=' bg-green-indust hover:bg-yellow-300 border-2 border-black text-black w-72 h-16 rounded-full text-xl'>Land to website</button>
+                                <button className=' bg-green-indust hover:bg-yellow-300 border-2 border-black text-black w-72 h-16 rounded-full text-xl'>Land to Website</button>
                             </Link>
                             <Link href='https://github.com/Setthapong-M/nextjs-poke-api-ep2/tree/main/src/app'><FaGithub className='w-16 h-16 hover:text-grey-black/90'/></Link>
                         </div>
@@ -189,7 +189,7 @@ function Casestudy() {
                     </ul>
                     <div className='flex gap-6 items-end'>
                         <Link href='https://next-dashboard-lovat-sigma.vercel.app/'>
-                            <button className=' bg-green-indust hover:bg-yellow-300 border-2 border-black text-black w-72 h-16 rounded-full text-xl'>Land to website</button>
+                            <button className=' bg-green-indust hover:bg-yellow-300 border-2 border-black text-black w-72 h-16 rounded-full text-xl'>Land to Website</button>
                         </Link>
                         <Link href='https://github.com/Setthapong-M/next-dashboard/tree/main/src/app'><FaGithub className='w-16 h-16 hover:text-grey-black/90'/></Link>
                     </div>

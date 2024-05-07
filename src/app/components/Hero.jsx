@@ -13,8 +13,9 @@ function Hero() {
                     <h2 className='text-3xl'>Hello, I'm</h2>
                     <h1 className='text-5xl'>Setthapong Maknoun</h1>
                     <div className='flex items-end gap-x-2'>
-                        <h2 className='text-3xl '>I am a </h2>
-                        <TypeAnimation className='text-4xl'
+                        <h2 className='md:hidden text-3xl'>I'm a </h2>
+                        <h2 className='hidden md:block text-3xl'>I am a </h2>
+                        <TypeAnimation className='text-3xl'
                             sequence={[
                             // Same substring at the start will only be typed out once, initially
                             'Web Developer',
