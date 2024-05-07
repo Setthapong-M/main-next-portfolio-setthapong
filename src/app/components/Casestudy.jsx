@@ -153,8 +153,8 @@ function Casestudy() {
             <div className='flex justify-center items-center md:justify-start '>
                 <div className='relative'>
                     <Image
-                        src='/fsEp2ApiD.png' 
-                        alt='poke api' 
+                        src="/fsEp2Apid.png"
+                        alt='poke_api' 
                         className="max-h-96 relative w-[500px]"
                         width={1000}
                         height={1000}
