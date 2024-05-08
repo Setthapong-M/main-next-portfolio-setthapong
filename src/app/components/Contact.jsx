@@ -84,7 +84,7 @@ function Contact() {
                     <label htmlFor='message'>Your massage</label>
                     <textarea cols='30' id='message' onChange={(e) => setContent(e.target.value)} rows="10" placeholder='Type here' className='w-full h-28 pl-4 pt-4 rounded-lg border border-black text-black'></textarea>
                 </div>
-                <button className='border border-black w-40 h-12 rounded-lg bg-white text-black hover:bg-gray-200 cursor-pointer' type='submit'>Submit</button>
+                <button className='border border-black w-40 h-12 rounded-lg bg-white text-black hover:bg-gray-200 cursor-pointer text-xl' type='submit'>Submit</button>
                 {error && (
                     <div className='bg-red-500 w-full flex justify-center text-sm text-white py-1 px-3 rounded-xl'>
                         {error}

@@ -18,13 +18,11 @@ function Hero() {
                         <TypeAnimation className='text-3xl'
                             sequence={[
                             // Same substring at the start will only be typed out once, initially
-                            'Web Developer',
+                            'Developer',
                             1000, // wait 1s before replacing "Mice" with "Hamsters"
                             'Front-end Developer',
                             1000,
                             'Web Designer',
-                            1000,
-                            'Mobile Designer',
                             1000,
                             ]}
                             speed={50}
