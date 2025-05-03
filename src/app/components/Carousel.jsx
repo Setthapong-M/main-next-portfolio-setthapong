@@ -39,7 +39,7 @@ function Carousel() {
   return (
     <div id='books-section' className='bg-green-indust'>
         <div className='mx-auto p-20 pb-20 max-w-screen-xl'>
-            <h1 className='text-4xl text-center mb-20 text-black'>What I have been reading</h1>
+            <h1 className='text-4xl text-center mb-20 text-black font-medium  '>What I have been reading</h1>
             <MyBooks slides={slides} />
         </div>
     </div>

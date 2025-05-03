@@ -15,7 +15,7 @@ function Navbar({isHifi}) {
             { !isHifi ? (
                 <nav className='bg-grey-black text-white justify-center'>
                     <div className='w-full mx-auto max-w-screen-2xl h-20 flex justify-between items-center'>
-                        <Link href="/" className='ml-6 text-2xl md:ml-20'>Setthapong Port</Link>
+                        <Link href="/" className='ml-6 text-2xl md:ml-20 font-bold'>Setthapong Port</Link>
 
                         <ul className='hidden md:flex gap-x-12'>
                             <li><Link href="/#toolkits-section">Toolkits</Link></li>
