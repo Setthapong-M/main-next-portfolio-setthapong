@@ -57,7 +57,7 @@ function Contact() {
                 <p className='md:max-w-lg'>Thank you for your interest in my work. Let's connect! <br /> Let me know if you have any additional questions.</p>
                 <p>11/608 Wattana, Phrakanong nueng, <br />Bangkok, Thailand</p>
                 <div className='flex flex-col gap-y-4'>
-                    <p className='flex items-center gap-x-2'><FaPhone />(+66) 802965398</p>
+                    <p className='flex items-center gap-x-2'><FaPhone />(+66) 97-495-1635</p>
 
                     <p className='flex items-center gap-x-2'><FaEnvelope />setthapong.maknoun@gmail.com</p>
                 </div>
@@ -69,16 +69,16 @@ function Contact() {
                 <div className='flex flex-col justify-between gap-6 md:flex-row'>
                     <div className='flex flex-col gap-y-2'>
                         <label htmlFor='first_name'>First name</label>
-                        <input type='text' id='first_name' onChange={(e) => setFirstName(e.target.value)} placeholder='eg. Jimmy' className='w-full h-12 pl-4 rounded-lg border border-black text-black'></input>
+                        <input type='text' id='first_name' onChange={(e) => setFirstName(e.target.value)} placeholder='Enter first name' className='w-full h-12 pl-4 rounded-lg border border-black text-black'></input>
                     </div>
                     <div className='flex flex-col gap-y-2'>
                         <label htmlFor='last_name'>Last name</label>
-                        <input type='text' id='last_name' onChange={(e) => setLastName(e.target.value)} placeholder='eg. Choojai' className='w-full h-12 pl-4 rounded-lg border border-black text-black'></input>
+                        <input type='text' id='last_name' onChange={(e) => setLastName(e.target.value)} placeholder='Enter last name' className='w-full h-12 pl-4 rounded-lg border border-black text-black'></input>
                     </div>
                 </div>
                 <div className='flex flex-col gap-y-2'>
                     <label htmlFor='email_address'>Email address</label>
-                    <input type='text' id='email_address' onChange={(e) => setEmail(e.target.value)} placeholder='eg. jimmychoojai@nowhere.com' className='w-full h-12 pl-4 rounded-lg border border-black text-black'></input>
+                    <input type='text' id='email_address' onChange={(e) => setEmail(e.target.value)} placeholder='Enter email' className='w-full h-12 pl-4 rounded-lg border border-black text-black'></input>
                 </div>
                 <div>
                     <label htmlFor='message'>Your massage</label>

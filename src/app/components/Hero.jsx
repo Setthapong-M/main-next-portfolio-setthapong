@@ -20,7 +20,7 @@ function Hero() {
                             // Same substring at the start will only be typed out once, initially
                             'Developer',
                             1000, // wait 1s before replacing "Mice" with "Hamsters"
-                            'Front-end Developer',
+                            'Full-Stack Developer',
                             1000,
                             'Web Designer',
                             1000,
@@ -33,7 +33,7 @@ function Hero() {
                 
                 <div className=''>
                     <p className='md:flex max-w-lg'>
-                        I transfer to the career path. However, I graduated from civil engineering. I have thoroughly enjoyed class computer programming, this included. That is a motivation to be drawn towards the programming world. Since that time, I still gain new knowledge continuously to prove my ability to learn.
+                        +1 year of experience transitioning from Civil Engineering to web development. Highly skilled in full-stack web development, including requirement gathering, UX/UI design, and testing. Successfully contributed to multiple high-impact projects, including internal websites for the Thai Red Cross Society, Department of Water Resources, and Mitrphol-Cassavamis, driving improvements in user experience and operational efficiency. Passionate about delivering innovative, scalable solutions that align with client needs and business goals.
                     </p>
                 </div>
                     <ul className='flex gap-x-6 '>
@@ -44,7 +44,7 @@ function Hero() {
             </div>
             <div className='flex justify-center'>
             <Image 
-                src='/profile.jpeg' 
+                src='/profile.jpg'
                 alt='Profile picture' 
                 className="mt-12 w-80 h-80 rounded-full border border-black object-cover"
                 width={500}
