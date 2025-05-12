@@ -18,7 +18,7 @@ function CosmeticChoose() {
           p2={"Role: UI designer"}
           p3={"Reference: User interface"}
           href={'/cosmetic-ui/mobile'}
-          btn={"View desktop case study"}
+          btn={"View Mobile Case Study"}
         />
         <ChooseViewLeft 
           img={'/pd-1-cos.png'}
@@ -28,7 +28,7 @@ function CosmeticChoose() {
           p2={"Role: UI designer"}
           p3={"Reference: User interface"}
           href={'/cosmetic-ui/desktop'}
-          btn={"View desktop case study"}
+          btn={"View Desktop Case Study"}
         />
         <Footer />
     </main>

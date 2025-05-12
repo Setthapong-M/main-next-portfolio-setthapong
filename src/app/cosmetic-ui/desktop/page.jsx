@@ -22,6 +22,7 @@ function CosemeticDesktop() {
           p3={"Reference: User interface"}
           href={'https://www.figma.com/proto/c00PUu4KUQtGEDvOIBEcTy/User-Interface-Cosmetic?page-id=302%3A513&type=design&node-id=303-716&viewport=-212%2C176%2C0.29&t=f91galcvS6SHFDCP-1&scaling=scale-down&starting-point-node-id=303%3A716&mode=design'}
           btn={"View Hi-Fi Prototype"}
+          target={"_blank"}
         />
         <WireframeDesktopCos />
         <PatternDesktopCos />

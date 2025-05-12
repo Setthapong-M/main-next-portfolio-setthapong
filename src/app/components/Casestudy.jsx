@@ -118,10 +118,10 @@ function Casestudy() {
                         <li>Reference: HTML5/CSS, JavaScript, Next.js, React.js and TailwindCSS</li>
                     </ul>
                     <div className='flex gap-6 items-end'>
-                        <Link href='https://next-middleman.vercel.app/'>
+                        <Link target='_blank' href='https://next-middleman.vercel.app/'>
                             <button className=' bg-green-indust hover:bg-yellow-300 border-2 border-black text-black w-72 h-16 rounded-full text-xl'>Land to Website</button>
                         </Link>
-                        <Link href='https://github.com/Setthapong-M/next-middleman/tree/main/src/app'><FaGithub className='w-16 h-16 hover:text-grey-black/90'/></Link>
+                        <Link target='_blank' href='https://github.com/Setthapong-M/next-middleman/tree/main/src/app'><FaGithub className='w-16 h-16 hover:text-grey-black/90'/></Link>
                     </div>
                     
                 </div>
@@ -141,10 +141,10 @@ function Casestudy() {
                             <li>Reference: Rest API</li>
                         </ul>
                         <div className='flex gap-6 items-end'>
-                            <Link href='https://nextjs-ep2-one.vercel.app/'>
+                            <Link target='_blank' href='https://nextjs-ep2-one.vercel.app/'>
                                 <button className=' bg-green-indust hover:bg-yellow-300 border-2 border-black text-black w-72 h-16 rounded-full text-xl'>Land to Website</button>
                             </Link>
-                            <Link href='https://github.com/Setthapong-M/nextjs-poke-api-ep2/tree/main/src/app'><FaGithub className='w-16 h-16 hover:text-grey-black/90'/></Link>
+                            <Link target='_blank' href='https://github.com/Setthapong-M/nextjs-poke-api-ep2/tree/main/src/app'><FaGithub className='w-16 h-16 hover:text-grey-black/90'/></Link>
                         </div>
                     </div>
                 </div>
@@ -188,10 +188,10 @@ function Casestudy() {
                         <li>Reference: Next-Authentication/ MongoDB/ Bcrypt</li>
                     </ul>
                     <div className='flex gap-6 items-end'>
-                        <Link href='https://next-dashboard-lovat-sigma.vercel.app/'>
+                        <Link target='_blank' href='https://next-dashboard-ten-taupe-96.vercel.app/login'>
                             <button className=' bg-green-indust hover:bg-yellow-300 border-2 border-black text-black w-72 h-16 rounded-full text-xl'>Land to Website</button>
                         </Link>
-                        <Link href='https://github.com/Setthapong-M/next-dashboard/tree/main/src/app'><FaGithub className='w-16 h-16 hover:text-grey-black/90'/></Link>
+                        <Link target='_blank' href='https://github.com/Setthapong-M/next-dashboard/tree/main/src/app'><FaGithub className='w-16 h-16 hover:text-grey-black/90'/></Link>
                     </div>
                 </div>
             </div>

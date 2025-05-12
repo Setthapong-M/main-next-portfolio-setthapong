@@ -13,7 +13,7 @@ function PrototypeMobile() {
                 <div className='flex flex-col justify-around max-w-xl'>
                     <p className='max-w-xl text-center md:text-start'>Intro screen and onboarding</p>
                     <div className='flex justify-center md:justify-start'>
-                        <Link href={pm}><button className='bg-white hover:bg-grey-hold hover:text-white text-black w-64 h-16 rounded-full text-xl mt-6'>View hi-fi prototype</button></Link>
+                        <Link target='_blank' href={pm}><button className='bg-white hover:bg-grey-hold hover:text-white text-black w-64 h-16 rounded-full text-xl mt-6'>View hi-fi prototype</button></Link>
                     </div>            
                 </div>
             </div>
@@ -120,7 +120,7 @@ function PrototypeMobile() {
                 <div className='flex flex-col'>
                     <p className='max-w-md text-center md:text-start'>After the users(sellers) send the product to other users(buyers), who will update a tracking number to track the parcel and inform other users (buyers) let them know</p>
                     <div className='flex justify-center md:justify-start'>
-                    <Link href={pm}><button className='bg-white hover:bg-grey-hold hover:text-white text-black w-64 h-16 rounded-full text-xl mt-6'>View hi-fi prototype</button></Link>
+                    <Link target='_blank' href={pm}><button className='bg-white hover:bg-grey-hold hover:text-white text-black w-64 h-16 rounded-full text-xl mt-6'>View hi-fi prototype</button></Link>
                     </div>            
                 </div>
             </div>

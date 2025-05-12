@@ -27,6 +27,7 @@ function MiddlemanDesktop() {
           p3={"Reference: Customer experience /User experience/ User interface"}
           href={'https://www.figma.com/proto/MJnzt1FROiH7s3B32PxrRC/MVP-Middleman_Pro-Mark-III?page-id=389%3A3614&type=design&node-id=403-762&viewport=52%2C388%2C0.06&t=VpoRWeJzFGslTXZg-1&scaling=scale-down&starting-point-node-id=403%3A762&mode=design'}
           btn={"View Hi-Fi Prototype"}
+          target={"_blank"}
         />
         <ContentOverview/>
         <ContentEmpathize />

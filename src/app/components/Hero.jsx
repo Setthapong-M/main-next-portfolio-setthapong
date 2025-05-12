@@ -37,9 +37,9 @@ function Hero() {
                     </p>
                 </div>
                     <ul className='flex gap-x-6 '>
-                        <li><Link href='https://github.com/Setthapong-M'><FaGithub className='w-12 h-12 hover:text-grey-black/90'/></Link></li>
-                        <li><Link href='https://www.linkedin.com/in/setthapong-maknoun-b42a28228/'><FaLinkedin className='w-12 h-12 hover:text-grey-black/90'/></Link></li>
-                        <li><Link href='https://drive.google.com/file/d/1RalOaphv7FkFV9K9iURuoD6Ys2npOlLf/view?usp=sharing'><FaRegFileLines className='w-12 h-12 hover:text-grey-black/90'/></Link></li>
+                        <li><Link href='https://github.com/Setthapong-M' target='_blank'><FaGithub className='w-12 h-12 hover:text-grey-black/90'/></Link></li>
+                        <li><Link href='https://www.linkedin.com/in/setthapong-maknoun-b42a28228/' target='_blank'><FaLinkedin className='w-12 h-12 hover:text-grey-black/90'/></Link></li>
+                        <li><Link href='https://drive.google.com/file/d/1RalOaphv7FkFV9K9iURuoD6Ys2npOlLf/view?usp=sharing' target='_blank'><FaRegFileLines className='w-12 h-12 hover:text-grey-black/90'/></Link></li>
                     </ul>
             </div>
             <div className='flex justify-center'>

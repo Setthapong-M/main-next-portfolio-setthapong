@@ -27,7 +27,7 @@ function ChooseViewLeft(props) {
                         <li>{props.p3}</li>
                     </ul>
                     <div className='flex justify-center md:justify-start'>
-                        <Link href={props.href}><button className='bg-grey-black hover:bg-grey-black/90 text-white w-72 h-16 rounded-full text-xl mt-6'>{props.btn}</button></Link>
+                        <Link target={props.target} href={props.href}><button className='bg-grey-black hover:bg-grey-black/90 text-white w-72 h-16 rounded-full text-xl mt-6'>{props.btn}</button></Link>
                     </div>
                 </div>
             </div>

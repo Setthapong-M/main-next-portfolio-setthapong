@@ -29,6 +29,7 @@ function MiddlemanMobile() {
           p3={"Reference: Customer experience /User experience/ User interface"}
           href={'https://www.figma.com/proto/MJnzt1FROiH7s3B32PxrRC/MVP-Middleman_Pro-Mark-III?page-id=434%3A2225&type=design&node-id=434-2226&viewport=389%2C325%2C0.14&t=6N7Z8gs0H5aLHiPi-1&scaling=scale-down&starting-point-node-id=434%3A2226&mode=design'}
           btn={"View Hi-Fi Prototype"}
+          target={"_blank"}
         />
         <ContentOverview />
         <ContentEmpathize />

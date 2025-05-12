@@ -49,7 +49,7 @@ function PrototypeDesktopCos() {
                 <div className='flex flex-col'>
                     <p className='max-w-md text-center md:text-start'>After choosing the product, users checkout</p>
                     <div className='flex justify-center md:justify-start'>
-                        <Link href={pd}><button className='bg-white hover:bg-grey-hold hover:text-white text-black w-64 h-16 rounded-full text-xl mt-12'>View hi-fi prototype</button></Link>
+                        <Link target='_blank' href={pd}><button className='bg-white hover:bg-grey-hold hover:text-white text-black w-64 h-16 rounded-full text-xl mt-12'>View hi-fi prototype</button></Link>
                     </div>
                 </div>
             </div>

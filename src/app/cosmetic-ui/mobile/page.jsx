@@ -22,6 +22,7 @@ function CosmeticMobile() {
           p3={"Reference: User interface"}
           href={'https://www.figma.com/proto/c00PUu4KUQtGEDvOIBEcTy/User-Interface-Cosmetic?page-id=58%3A2865&type=design&node-id=58-2866&viewport=431%2C340%2C0.42&t=zfaoMjg2IvuDvuRd-1&scaling=scale-down&starting-point-node-id=58%3A2866&mode=design'}
           btn={"View Hi-Fi Prototype"}
+          target={"_blank"}
         />
         <WireframeMobileCos />
         <PatternMobileCos />
