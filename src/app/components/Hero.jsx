@@ -32,8 +32,8 @@ function Hero() {
                 </div>
                 
                 <div className=''>
-                    <p className='md:flex max-w-lg'>
-                        +1 year of experience transitioning from Civil Engineering to web development. Highly skilled in full-stack web development, including requirement gathering, UX/UI design, and testing. Successfully contributed to multiple high-impact projects, including internal websites for the Thai Red Cross Society, Department of Water Resources, and Mitrphol-Cassavamis, driving improvements in user experience and operational efficiency. Passionate about delivering innovative, scalable solutions that align with client needs and business goals.
+                    <p className='md:flex max-w-lg text-lg'>
+                        With roughly 1 year of experience in web and database development, UI/UX design, and project coordination, I have successfully delivered high-impact internal platforms for organizations including the Thai Red Cross Society, the Department of Water Resources, and Mitrphol-Cassavamis. I’m skilled at building scalable web solutions, maintaining comprehensive technical documentation, and collaborating across teams. I bring a strong interest in leadership, software architecture, and database optimization.
                     </p>
                 </div>
                     <ul className='flex gap-x-6 '>
@@ -46,7 +46,7 @@ function Hero() {
             <Image 
                 src='/profile.jpg'
                 alt='Profile picture' 
-                className="mt-12 w-80 h-80 rounded-full border border-black object-cover"
+                className="mt-20 w-80 h-80 rounded-full border border-black object-cover"
                 width={500}
                 height={500} 
                 priority
